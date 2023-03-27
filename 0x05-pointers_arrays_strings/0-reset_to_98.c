@@ -9,5 +9,4 @@ void reset_to_98(int *n)
 {
 	*n = 98;
 }
-Footer
-© 2023 GitHub, Inc.
+
